@@ -2,10 +2,13 @@
   "name": "hapi-sentry-error",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bartlomiej Rozanski",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^4.4.1"
+  }
 }
