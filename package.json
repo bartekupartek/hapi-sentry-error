@@ -9,6 +9,7 @@
   "author": "Bartlomiej Rozanski",
   "license": "ISC",
   "dependencies": {
-    "@sentry/node": "^4.4.1"
+    "@sentry/node": "^4.4.1",
+    "joi": "^14.3.0"
   }
 }
